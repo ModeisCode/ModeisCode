@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ModeisCode
+- 👀 I’m interested in everything about technology and coding
+- 📫 How to reach me modeiscode1212@gmail.com
