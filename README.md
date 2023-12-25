@@ -4,8 +4,6 @@
 <h4 align="center">I am working on development of modern web applications with latest technologies and architectures.</h4>
 
 - 💬 Ask me about **ASP.NET**
-- 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
