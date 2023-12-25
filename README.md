@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
 <h3 align="center">I am full-stack(backend-mostly) developer with passionate about tech&software industry.</h3>
+<h3 align="center">I generally working with ASP.NET CORE MVC.</h3>
 
-- 💬 Ask me about **ASP.NET,Django,Nodejs ,and aws.**
+- 💬 Ask me about **ASP.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
