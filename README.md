@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
 <h3 align="center">I am full-stack(backend-mostly) developer with passionate about tech&software industry.</h3>
-<h3 align="center">I generally working with ASP.NET CORE MVC.</h3>
+<h3 align="center">I am generally working with ASP.NET CORE MVC.</h3>
+<h4 align="center">I am working on development of modern web applications with latest technologies and architectures.</h4>
 
 - 💬 Ask me about **ASP.NET**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
