@@ -3,7 +3,7 @@
 <h3 align="center">I am generally working with pytorch and godot</h3>
 <h4 align="center">I am working on development of ai's and games with latest technologies and architectures.</h4>
 
-- 💬 Ask me about **PyTorch,Godot,C/C++,Rust**
+- 💬 Ask me about **PyTorch,Godot,C/C++,Rust,Prompt engineering**
 - I am also developing mobile and web apps.
 <p align="left">
 </p>
