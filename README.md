@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
-<h3 align="center">I am web app and game developer with passionate about tech&software industry.</h3>
-<h3 align="center">I am generally working with asp.net and godot</h3>
-<h4 align="center">I am working on development of web app's and games with latest technologies and architectures.</h4>
+<h3 align="center">I am ai and game developer with passionate about tech&software industry.</h3>
 
-- 💬 Ask me about **backend and game development**
-- I am also developing mobile and ai apps.
+- 💬 Ask me about **ai and game development**
+- I am also developing mobile and web apps.
 <p align="left">
 </p>
 
