@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
-<h3 align="center">I am ai and system programmer with passionate about tech&software industry.</h3>
+<h3 align="center">I am ai and devops with passionate about tech&software industry.</h3>
 
-- 💬 Ask me about **ai and system programming**
+- 💬 Ask me about **ai and devops**
 - I am also developing desktop,mobile and web apps.
 <p align="left">
 </p>
