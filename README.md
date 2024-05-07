@@ -2,7 +2,7 @@
 <h3 align="center">I am ai developer with passionate about tech&software industry.</h3>
 
 - 💬 Ask me about **ai**
-- I am also developing desktop,mobile and web apps.
+- I am also developing desktop,games,system programming applications,mobile and web apps.
 <p align="left">
 </p>
 
