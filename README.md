@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
-<h3 align="center">I am ai developer with passionate about tech&software industry.</h3>
+<h3 align="center">I am game developer with passionate about tech&software industry.</h3>
 
-- 💬 Ask me about **ai**
-- I am also developing desktop,games,system programming applications,mobile and web apps.
+- 💬 Ask me about **game**
+- I am also developing desktop,ai,system programming applications,mobile and web apps.
 <p align="left">
 </p>
 
