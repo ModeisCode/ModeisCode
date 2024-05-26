@@ -2,7 +2,7 @@
 <h3 align="center">I am game and ai developer with passionate about tech&software industry.</h3>
 
 - 💬 Ask me about **game and ai**
-- I am also developing desktop,system programming applications,mobile and web apps.
+- I am using generally these technologies : Unity3d , C# , python , pytorch
 <p align="left">
 </p>
 
