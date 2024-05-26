@@ -3,6 +3,7 @@
 
 - 💬 Ask me about **game and ai**
 - I am using generally these technologies : Unity3d , C# , python , pytorch
+- Productivity and devops tools : draw.io , trello
 <p align="left">
 </p>
 
