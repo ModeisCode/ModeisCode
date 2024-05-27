@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm modeiscode</h1>
-<h3 align="center">I am game and ai developer with passionate about tech&software industry.</h3>
-
-- 💬 Ask me about **game and ai**
-- I am using generally these technologies : Unity3d , C# , python , pytorch
-- Productivity and devops tools : draw.io , trello
 <p align="left">
 </p>
 
