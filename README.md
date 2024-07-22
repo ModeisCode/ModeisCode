@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-<h1 align="left">Kotlin Mobile Developer</h1>
+<h1 align="center">Kotlin Mobile Developer</h1>
 
 
 
