@@ -3,12 +3,4 @@
 </p>
 
 <h1 align="center">Kotlin Mobile Developer</h1>
-
-![Kotlin](kotlin.jpg)
-
-
-
-
-
-
-
+KOTLIN JETPACK COMPOSE - ASP NET CORE MVC - MERN - NESTJS - MSSQL - POSTRESQL - MONGODB
