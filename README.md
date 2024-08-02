@@ -2,5 +2,5 @@
 <p align="left">
 </p>
 
-<h1 align="center">Kotlin Mobile Developer</h1>
-    TECH STACK : KOTLIN JETPACK COMPOSE - ASP NET CORE MVC - MERN - NESTJS - MSSQL - POSTRESQL - MONGODB
+<h1 align="center">ASP.NET CORE MVC Developer</h1>
+    TECH STACK : ASP NET CORE MVC - MSSQL - MONGODB - HTML5 - CSS3 - BOOSTRAP5 - REACTJS
